@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Pick 1 for file type count"
-echo "Pick 2 for File tag"
-echo "Pick 3 for File Size List"
+echo " Pick 1 for file type count"
+echo " Pick 2 for File tag"
+echo " Pick 3 for File Size List"
 read numbr
 
 if [ "$numbr" -eq 1 ] ; then
