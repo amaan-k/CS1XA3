@@ -4,7 +4,7 @@ This script has to be executed using:
 chmod +x CS1XA3/Project01/project_analyze.sh
 ./CS1XA3/Project01/project_analyze arg1 arg2 ...
 
-The file is interactive and takes a user given input and does functions based on the user input.
+-The file is interactive and takes a user given input and does functions based on the user input.
 
 
 ## Feature 01 - File Type Count
