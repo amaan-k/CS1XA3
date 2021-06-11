@@ -5,7 +5,7 @@ academic and professional achievements for the purpose of job applications.
 
 The template of this website was taken from w3schools as guided by the Professor and I included 
 my own personal code within the template and made changes according to my preferances to make
-it look more appealing to a employers eyes.
+it look more appealing to an employers eyes.
 
 
 ## The Theme
