@@ -18,7 +18,7 @@ python manage.py shell
 >>> models.UserInfo.objects.create_user_info(username='TestUser',password='1234')
 >>> exit
 
-## List of users created users
+## List of created users
 ```markdown
 | Username | Password     |
 |----------|--------------|
