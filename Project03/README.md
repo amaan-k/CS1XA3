@@ -72,7 +72,7 @@ Description:
 Exception:
 - If a user encountered is in the friend list of the user, then it is not displayed here.
 
-## Objective 08
+## Objective 05
 Description:
 
 - The objective is to create a post by the user.
@@ -80,7 +80,7 @@ Description:
 - The contents of **post-text** are sent to **post_submit_view** and the page is reloaded.
 - The post are currently not displayed which brings us to objective 9.
 
-## Objective 09
+## Objective 06
 Description:
 
 - **messages_view** is changed to display the post and **postlim** is introduced to limit the number of posts being displayed at a time. 
