@@ -12,7 +12,7 @@ python manage.py runserver localhost:8000
 python manage.py runserver localhost:10058 &
 
 
-- using the followig code snippet in the shell itself:
+- using the following code snippet in the shell itself:
 python manage.py shell
 >>> from social import models
 >>> models.UserInfo.objects.create_user_info(username='TestUser',password='1234')
